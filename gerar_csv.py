@@ -1,7 +1,7 @@
 # gera_csv.py
 import csv
 import os
-#algo aqui
+#qualquer coisa aqui
 def gerar_csv_dados(filepath):
     """Gera arquivo CSV com dados de teste"""
     # Garante que o diretório existe
